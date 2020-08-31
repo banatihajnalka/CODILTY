@@ -13,11 +13,11 @@ public class PermMissingElement {
     int max = A.length + 1;
 
     Set incompleteSet = new HashSet();
-    for(int i=0; i<A.length; i++) {
+    for (int i = 0; i < A.length; i++) {
       incompleteSet.add(A[i]);
     }
-    for(int i=1; i<max+1; i++) {
-      if(!incompleteSet.contains(i)) {
+    for (int i = 1; i < max + 1; i++) {
+      if (!incompleteSet.contains(i)) {
         return (i);
       }
     }

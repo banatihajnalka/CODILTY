@@ -12,7 +12,7 @@ public class TypeEquilibrium {
     }
 
     int minimalDifference = Integer.MAX_VALUE;
-    int currentDifference = Integer.MAX_VALUE;
+    int currentDifference;
     int firstPart = 0;
     int secondPart = 0;
 

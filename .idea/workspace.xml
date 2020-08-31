@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="776c2478-6291-4002-a937-e4b69561935b" name="Default Changelist" comment="" />
+    <list default="true" id="776c2478-6291-4002-a937-e4b69561935b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyclicRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CyclicRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PermMissingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PermMissingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeEquilibrium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeEquilibrium.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gHeBQh6LGlxyAuKKOMI5pQprGX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -32,16 +42,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PermCheck">
-    <configuration name="FrogJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrogJump" />
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="Distinct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Distinct" />
       <module name="CODILITY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrogRiverOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FrogRiverOne" />
+    <configuration name="MaxProductOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxProductOfThree" />
+      <module name="CODILITY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassingCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PassingCars" />
       <module name="CODILITY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,15 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermMissingElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PermMissingElement" />
-      <module name="CODILITY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeEquilibrium" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TypeEquilibrium" />
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
       <module name="CODILITY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.MaxProductOfThree" />
+        <item itemvalue="Application.Distinct" />
+        <item itemvalue="Application.PassingCars" />
         <item itemvalue="Application.PermCheck" />
-        <item itemvalue="Application.FrogRiverOne" />
-        <item itemvalue="Application.TypeEquilibrium" />
-        <item itemvalue="Application.PermMissingElement" />
-        <item itemvalue="Application.FrogJump" />
       </list>
     </recent_temporary>
   </component>
@@ -88,12 +98,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597775808602</updated>
-      <workItem from="1597775814148" duration="18590000" />
+      <workItem from="1597775814148" duration="31812000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -122,6 +143,11 @@
           <url>file://$PROJECT_DIR$/src/PermCheck.java</url>
           <line>33</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PassingCars.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

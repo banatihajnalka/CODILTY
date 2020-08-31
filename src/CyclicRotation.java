@@ -13,9 +13,9 @@ public class CyclicRotation {
     int rotationTime = rotation % array.length;
 
     for (int i = 0; i < rotationTime; i++) {
-      int last = array[array.length -1];
-      for (int j = array.length -1 ; j > 0; j--) {
-        array[j] = array[j -1];
+      int last = array[array.length - 1];
+      for (int j = array.length - 1; j > 0; j--) {
+        array[j] = array[j - 1];
       }
       array[0] = last;
     }

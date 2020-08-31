@@ -8,7 +8,6 @@ public class BinaryGap {
 
   private static int solution(int N) {
     String binaryString = Integer.toBinaryString(N);
-    System.out.println(binaryString);
 
     StringBuilder sb = new StringBuilder(binaryString);
     while (sb.length() > 1 && sb.charAt(sb.length() - 1) == '0') {
